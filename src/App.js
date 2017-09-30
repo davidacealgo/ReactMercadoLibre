@@ -49,7 +49,7 @@ class App extends Component {
      return (
        <div>
          <center>
-           <h1> MercadoSearch Reizzel </h1>
+           <h1> MercadoSearch Davidacealgo </h1>
            <label>Buscar producto</label>
            <br/>
            <input type="text" onChange={this.textChanged}></input>
